@@ -36,12 +36,13 @@ The course dives deep into the fundamentals of relational databases, querying wi
 ---
 
 ## 🧾 Course Certificate
-Course completed: June 2025
-Link to certificate (optional)
+  Course completed: June 2025
+
+  Link to certificate (optional)
 
 ## 🔐 Disclaimer
-All solutions are written from scratch for personal learning and are publicly available only after the course completion. Please don’t copy and submit as your own if you're currently enrolled.
+  All solutions are written from scratch for personal learning and are publicly available only after the course completion. Please don’t copy and submit as your own if you're currently enrolled.
 
 ## Author: Stephen Nsa
-GitHub: https://github.com/Stennas
+  GitHub: https://github.com/Stennas
 
