@@ -35,17 +35,6 @@ The course dives deep into the fundamentals of relational databases, querying wi
 
 ---
 
-## 💡 Sample Query (from `fiftyville/`)
-```sql
-SELECT name FROM people
-JOIN passengers ON people.passport_number = passengers.passport_number
-WHERE flight_id IN (
-  SELECT id FROM flights WHERE origin = 'Fiftyville'
-)
-AND seat = '3A';
-
-
-
 ## 🧾 Course Certificate
 Course completed: June 2025
 Link to certificate (optional)
