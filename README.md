@@ -10,7 +10,7 @@ The course dives deep into the fundamentals of relational databases, querying wi
 
 - Relational database design
 - Normalization and keys
-- Writing advanced SQL queries (JOINs, GROUP BY, HAVING, etc.)
+- Writing advanced SQL queries (`JOINs`, `GROUP BY`, `HAVING`, etc.)
 - Creating, updating, and deleting tables and records
 - SQL functions (e.g., `AVG()`, `COUNT()`, `CASE`)
 - Subqueries and nested queries
